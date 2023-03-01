@@ -1,7 +1,7 @@
 ---
 sidebar_position: 2
 ---
-
+# Tasks
 # Available Tasks
 At first, you probably won't have any tasks. You can get some by going to the Available Tasks page.
 ![Available tasks picture](./assets/task_available.png)
@@ -18,12 +18,10 @@ You can see all the tasks you currently have active here.
 Once you've finished a task, simply click the green complete button. You'll be asked to upload a photo of the task, and a photo to show that you completed it.
 ![Completed tasks pictures](./assets/tasks_verify.png)
 
-Some tasks will be instantly verified using our custom AI. Other tasks will become pending, which means they show up in your friends' [feed](./feed.md), where they can report it if you haven't provided sufficient proof of completing the task.
-
-When you mark a task as completed, it will move to the bottom of the 'My Tasks' page, showing whether it is completed or pending verification.
+Once you mark a task as completed, it will move to the bottom of the 'My Tasks' page, showing whether it is completed or pending verification.
 ![Completed tasks pictures](./assets/tasks_completed.png)
 
-
+The task might display as pending before it completes and you get the points from it. You can read about task validation [here](./game.md).
 
 # Tagging
 Once you've completed a task, you can tag your friends and give them the same task to do.
