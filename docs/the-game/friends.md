@@ -4,7 +4,8 @@ sidebar_position: 2
 
 # Friends
 
-[//]: # (![Overview Friends picture]&#40;./assets/friends.png&#41;)
+![Overview Friends picture](./assets/friends.png)
+
 From the friends page you are able to do 4 different things:
 - View your friends list
 - Add other friends from a list of users in a drop-down menu

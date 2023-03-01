@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Profile
@@ -9,8 +9,7 @@ The profile page allows you to view your own information. This information inclu
 - Friends
 - Points
 
-[//]: # (![Overview Profile picture]&#40;./assets/profile1.png&#41;)
-
+![Overview Profile picture](./assets/profile1.png)
 
 ## Profile Picture
 Your profile picture is displayed at the top of the profile page.
