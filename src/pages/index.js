@@ -18,12 +18,12 @@ function HomepageHeader() {
                     <Link
                         className="button button--danger button--lg"
                         to="/docs/learn">
-                        Learn about the Game
+                        Learn
                     </Link>
                     <Link
                         className="button button--secondary button--lg"
                         to="/docs/deploy/automated">
-                        Deploy yourself
+                        Deploy
                     </Link>
                 </div>
             </div>
