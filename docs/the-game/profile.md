@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Your Personalized Profile Experience
+# Profile
 Welcome to your profile page! This is where you can showcase a brief description of yourself, add friends and keep track of your points. You have the power to make it unique and personalized just like you!
 
 ## The Power of Profile Pictures
