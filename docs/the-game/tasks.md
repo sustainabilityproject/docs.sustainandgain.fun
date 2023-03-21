@@ -1,6 +1,3 @@
-sidebar_position: 2
-
-
 # 🌟 Discover Exciting Tasks 🌟
 
 Embark on a thrilling journey with our Available Tasks! Start by exploring a world of possibilities and challenges that await you.

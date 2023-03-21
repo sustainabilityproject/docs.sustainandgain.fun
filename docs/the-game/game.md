@@ -1,9 +1,3 @@
----
-sidebar_position: 2
----
-
-
-
 # Unleash Your Potential - Task Validation ✨
 We're committed to celebrating your accomplishments on our platform! As valued members of our thriving community, YOU are the driving force behind our innovative validation system. Discover the features that set us apart:
 

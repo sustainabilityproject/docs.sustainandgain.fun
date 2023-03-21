@@ -1,5 +1,4 @@
-
-## 🌍 The Power of Community - User Roles 🌍
+# 🌍 The Power of Community - User Roles 🌍
 
 At Sustain and Gain, we celebrate the synergy of diverse user roles, all contributing to a flourishing and vibrant community.
 
