@@ -1,8 +1,18 @@
-# Leagues
+# The Thrill of Competition - Leagues
 
-Leagues are a way to compete with all your friends on a leaderboard to see who can get the most points.
+Join our leagues and experience the thrill of competition, with a chance to showcase your skills while connecting with like-minded individuals!
 
 ![League Overview](./assets/league-overview.png)
+## An Inclusive Experience for All
+Our leaderboard allows you to compete against all users equally, with transparent results! Whether it's public or private, high visibility or low-key private league, we've designed our platform to cater to your individual preferences.
+
+## No Gap Between Accessibility and Competition
+Get started by browsing through open leagues that allow anyone in the community to join regardless of level. Seeking more exclusivity? View invite-only leagues where approved members can enter upon request. Creating a league is super easy – click "Create" at /leagues, and become an administrator today!
+
+## A Range of Roles for Your Preferences
+Our roles enable you to administer AND participate in equal measure! You can be promoted or demoted on leaderboards according to your position on these league hierarchies. Admins play an integral part in managing all aspects of privacies (visible versus invisible), invitations and overall maintenance- so why not make it YOUR LEAGUE today?
+
+At our heart is an authentic community built on trust- join us today, experience growth while hearing about other's unique stories and share yours too!
 
 ## Visibility
 
