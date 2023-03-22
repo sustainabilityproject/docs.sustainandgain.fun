@@ -1,30 +1,36 @@
----
-sidebar_position: 2
----
-# Tasks
-# Available Tasks
-At first, you probably won't have any tasks. You can get some by going to the Available Tasks page.
+# 🌟 Discover Exciting Tasks 🌟
+
+Embark on a thrilling journey with our Available Tasks! Start by exploring a world of possibilities and challenges that await you.
+
+
 ![Available tasks picture](./assets/task_available.png)
 
-You can accept a task by clicking the green button. Once you've accepted a task, it moves to [your tasks page](#my-tasks).
-You can see how many points you'll get once it's completed, which category the task belongs to, and a description of the task.
+Simply click the vibrant green button to accept a task, and watch it seamlessly transition to your tasks page. Get ready to earn valuable points, dive into engaging categories, and uncover detailed task descriptions.
 
-# My Tasks
-Once you've been given a task - either by accepting it from the available tasks page, or from one of your friends [tagging](#tagging) you - it will appear on the 'My Tasks' page.
-You can see all the tasks you currently have active here.
+## 🏆 My Personalized Task Hub 🏆
+
+Your very own My Tasks page showcases the tasks handpicked by you or those you've received from your friends through tagging. Keep track of your ongoing adventures right here!
+
+
 ![My tasks](./assets/tasks_active.png)
 
-# Completing Tasks
-Once you've finished a task, simply click the green complete button. You'll be asked to upload a photo of the task, and a photo to show that you completed it.
+
+## 🎉 Completing Tasks Made Easy 🎉
+
+Finished a task? Celebrate by clicking the green complete button! You'll be prompted to upload a photo of the task and a snapshot of your accomplishment.
+
+
+Marking a task as completed moves it to the bottom of the 'My Tasks' page, indicating its completion or pending verification status.
 ![Completed tasks pictures](./assets/tasks_verify.png)
 
-Once you mark a task as completed, it will move to the bottom of the 'My Tasks' page, showing whether it is completed or pending verification.
+Your task may display as pending before it's finalized and you receive the points. To learn more about task validation, click here.
+
+
 ![Completed tasks pictures](./assets/tasks_completed.png)
+## 🎯 Tag, You're It! 🎯
 
-The task might display as pending before it completes and you get the points from it. You can read about task validation [here](./game.md).
+Share the fun and excitement with your friends by tagging them in tasks you've completed.
 
-# Tagging
-Once you've completed a task, you can tag your friends and give them the same task to do.
+Simply browse your completed tasks on the 'My Tasks' page, select your friend from the dropdown menu, and tag away!
 
-All you need to do is look at your previously completed tasks on the 'My Tasks' page, select your friend from the dropdown menu, and tag them.
 ![Completed tasks pictures](./assets/tasks_tag.png)
