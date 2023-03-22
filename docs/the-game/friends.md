@@ -27,10 +27,12 @@ You Are also able to click on the remove friends button and this will the accoun
 
 
 ## Add Friends
-In the add friends section you are able to click on the drop-down menu and view accounts that you are not already friends
-with. Once you have selected an account you can press the add button which will then send the request.
-You are also able to search for an account with the text box below the drop down menu.
+In the add friends section you are able to search for friends. Type in the name or username of you friend, press enter to find matching users.
 ![Add Friends](./assets/friends3.png)
+The search results will look something like this. If you aren't already friends with them or have not sent them a request yet, them you'll have the options to send them a friend request by clicking the green button.
+![Add Friends](./assets/friends4.png) 
+
+
 
 ## Incoming Friend Requests
 This section of the friends page is where you can view incoming friend requests and either accept or decline them.
@@ -41,4 +43,4 @@ This section of the friends page is where you can view incoming friend requests 
 ## Outgoing Friend Requests
 In this section you will be able to view your outgoing friend requests. There is also a button present that will allow you to
 cancel any requests.
-![Reported tasks view](./assets/friends5.png)
+![Reported tasks view](./assets/friends6.png)
