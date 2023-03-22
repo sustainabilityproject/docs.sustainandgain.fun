@@ -34,3 +34,12 @@ Share the fun and excitement with your friends by tagging them in tasks you've c
 Simply browse your completed tasks on the 'My Tasks' page, select your friend from the dropdown menu, and tag away!
 
 ![Completed tasks pictures](./assets/tasks_tag.png)
+
+## 💣 Bomb Tasks 💣
+If you're feeling brave, you can accept a bomb task. You can identify these explosive tasks by the red bomb icon.
+
+![Completed tasks pictures](./assets/tasks_bomb_available.png)
+
+Careful though, since once you accept the task it will start ticking down. If you don't complete it in time, you'll lose points instead of gaining them.
+
+
